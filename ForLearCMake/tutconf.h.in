@@ -1,0 +1,2 @@
+#define SuperProject_VERSION_MAJOR @SuperProject_VERSION_MAJOR@
+#define SuperProject_VERSION_MINOR @SuperProject_VERSION_MINOR@
